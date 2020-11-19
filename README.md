@@ -4,10 +4,14 @@
 
 A simple countdown to 2021 in HTML, CSS.
 
+## Visit Website
+This project use vercel.com.
+
+Go to https://2021-countdown.baptistelechat.vercel.app/ to view the project.
+
 ## Maintainers
 This project is mantained by:
 * [baptistelechat](https://github.com/baptistelechat)
-
 
 ## Contributing
 
