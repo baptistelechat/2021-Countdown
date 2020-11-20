@@ -9,6 +9,8 @@ This project use vercel.com.
 
 Go to https://2021-countdown.baptistelechat.vercel.app/ to view the project.
 
+<img src="./img/screenshot.png">
+
 ## Maintainers
 This project is mantained by:
 * [baptistelechat](https://github.com/baptistelechat)
